@@ -1,1 +1,4 @@
-sadadasd asdasdasdadasdasdasdasdddddddddddddddddddddddddddddddd
+<<<<<<< .minesadadasd asdasdasdadasdasdasdasdddddddddddddddddddddddddddddddd
+
+=======sadadasd asdasd aaaaaaaaaaaaaaaaaaaaaaaaaaaa
+>>>>>>> .theirsWely
